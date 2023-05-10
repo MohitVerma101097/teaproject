@@ -18,6 +18,11 @@ a:hover {
     color:rgb(227, 156, 106)
 }
 
+a:active {
+    font-size: 18px;
+    transition: font-size .1s ease-out
+}
+
 h2, h3, h4 {
     margin: 0;
     padding: 10px;
